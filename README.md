@@ -4,15 +4,15 @@
 
 ### mac setup file を git clone
 
-`$ git clone https://github.com/a171413/mac_setup.git ~/mac_setup`
+`$ git clone https://github.com/iamharada/m3-mac-setup`
 
 ### setup.sh を叩く
 
-`$ sh ~/mac_setup/setup.sh`
+`$ sh ~/m3-mac-setup/setup.sh`
 
 ### app_install.sh を叩く
 
-`$ sh ~/mac_setup/app_install.sh`
+`$ sh ~/m3-mac-setup/app_install.sh`
 
 tmux を使用する際には、Iterm の設定が必要になるかも…？
 
