@@ -13,6 +13,10 @@ echo "# install brew"
 echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
+# iTerm2のインストール
+echo "# install iTerm2"
+brew install --cask iterm2
+
 echo "# install TablePlus"
 brew install --cask tableplus
 
